@@ -128,6 +128,7 @@ letter-spacing: 0.02em;
 text-align: center;
 width: 496px;
 color: #fff;
+margin-bottom: 48px;
 }
 .hero-button {
 font-weight: 500;
@@ -136,6 +137,8 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
 background-color: #4d5ae5;
+padding: 16px 32px;
+align-items: center;
 }
 .hero-button:hover, .hero-button:focus {
 background-color: #404BBF;
@@ -260,6 +263,8 @@ padding-left: 156px;
 }
 .logo-span-footer {
 color: #f4f4fd;
+}
+.logo-footer {
 margin-bottom: 16px;
 }
 .footer-text {
