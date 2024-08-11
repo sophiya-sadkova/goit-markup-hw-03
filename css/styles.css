@@ -39,6 +39,8 @@ button {
     padding-right: 15px;
     box-sizing: border-box;
     margin: 0 auto;
+    align-items: center;
+    justify-content: space-between;
 }
 .header {
     border-bottom: 1px solid #e7e9fc
@@ -47,11 +49,12 @@ button {
 .header-container {
 height: 72px;
 display: flex;
-justify-content: space-between;
 align-items: center;
-
 }
-.nav { display: flex;
+.nav { 
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
 align-items: center;
 }
 .logo {
